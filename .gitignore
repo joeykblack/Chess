@@ -1,0 +1,7 @@
+bin/
+classes/
+.svn/
+.metadata/
+*.class
+*.o
+*.d
